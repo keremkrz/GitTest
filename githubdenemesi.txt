@@ -8,4 +8,4 @@ main branch testi için yazılmıstır denemedirB
 
 Bahadir branch
 
-hata denemesi yapılması dışındadır
+hata denemesi yapılması dışındadır değişiklik yaptım
