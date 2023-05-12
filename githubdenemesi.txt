@@ -6,3 +6,4 @@ C:\Users\kerem\OneDrive\Masaüstü\githubdenemesi.txt
 
 main branch testi için yazılmıstır denemedir
 
+hata denemesi yapılması içindir
