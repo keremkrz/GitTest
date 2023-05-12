@@ -8,4 +8,4 @@ main branch testi için yazılmıstır denemedirB
 
 Bahadir branch
 
-hata denemesi yapılması içindir
+hata denemesi yapılması içindir ilk turda bitirelim
